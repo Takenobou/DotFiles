@@ -1,4 +1,4 @@
 # dotfiles
 current configs + scripts
 
-![2020-01-06_22:16:30](https://user-images.githubusercontent.com/31248629/71853070-3c3b3500-30d2-11ea-96f4-47d39d527d70.png)
+![2020-02-13_20:49:33](https://user-images.githubusercontent.com/31248629/74477186-b9f91a00-4ea2-11ea-9326-2e2dbb2c8cc2.png)
